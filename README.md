@@ -17,4 +17,4 @@ Na koniec mamy sprawdzanie numeru biletu miesięcznego, tutaj akurat za dużej l
 
 ![](screens/3.png)
 
-Poważnym błędem z naszej strony było zrobienie wszystkiego bez pośrednio w React.js, co powoduje beznadziejną optymalizację.
+Poważnym błędem z naszej strony było zrobienie wszystkiego bez pośrednio w React.js, co powoduje beznadziejną optymalizację. Wyglądowo też nie zbyt powala, ale najbardziej zależało nam na funkcjonalności i nasze umiejętności stylowania również nie były zbyt wysokie.
