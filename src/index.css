@@ -1,0 +1,27 @@
+/* ./src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Monda&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url("img/background.jpg");
+}
+h1{
+    font-family: 'Staatliches', cursive;
+}
+
+table {
+    width: 575px;
+    background: black;
+    font-family: 'Monda', sans-serif;
+}
+.rozklad {
+    width: 250px;
+}
+#email{
+    font-family: 'Roboto Condensed', sans-serif;
+}
